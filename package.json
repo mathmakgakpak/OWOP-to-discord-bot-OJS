@@ -1,0 +1,15 @@
+{
+  "name": "OWOP to discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "owop-js": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "mathias377"
+}
